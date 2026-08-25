@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 852b4e042536b9942bf4117546e9a8df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8491137337160364071
+    second: Skull Boy_0
+  - first:
+      213: 5414820805377272094
+    second: Skull Boy_1
+  - first:
+      213: -4052825648282851836
+    second: Skull Boy_2
+  - first:
+      213: 4266846507985676
+    second: Skull Boy_3
+  - first:
+      213: 4829848159798569674
+    second: Skull Boy_4
+  - first:
+      213: -3947437750669049153
+    second: Skull Boy_5
+  - first:
+      213: -7539773767688199626
+    second: Skull Boy_6
+  - first:
+      213: -3287191502006523216
+    second: Skull Boy_7
+  - first:
+      213: 354770135237957138
+    second: Skull Boy_8
+  - first:
+      213: 4778365998187534026
+    second: Skull Boy_9
+  - first:
+      213: -9161454694485653783
+    second: Skull Boy_10
+  - first:
+      213: -6939510211262368432
+    second: Skull Boy_11
+  - first:
+      213: -6783486348996898752
+    second: Skull Boy_12
+  - first:
+      213: 6656792717829714308
+    second: Skull Boy_13
+  - first:
+      213: -4177182180793128498
+    second: Skull Boy_14
+  - first:
+      213: 5362508622400728563
+    second: Skull Boy_15
+  - first:
+      213: 6055647606707134902
+    second: Skull Boy_16
+  - first:
+      213: -6787953997302089687
+    second: Skull Boy_17
+  - first:
+      213: 8211801203796254199
+    second: Skull Boy_18
+  - first:
+      213: -8007555033182065127
+    second: Skull Boy_19
+  - first:
+      213: -3396333036477196226
+    second: Skull Boy_20
+  - first:
+      213: -963383504089925818
+    second: Skull Boy_21
+  - first:
+      213: -3461964055423262322
+    second: Skull Boy_22
+  - first:
+      213: -7230505103196001167
+    second: Skull Boy_23
+  - first:
+      213: -8276121590677057989
+    second: Skull Boy_24
+  - first:
+      213: 1200163554371362013
+    second: Skull Boy_25
+  - first:
+      213: 3123219973323342581
+    second: Skull Boy_26
+  - first:
+      213: -8103779258299644190
+    second: Skull Boy_27
+  - first:
+      213: -264084952116405375
+    second: Skull Boy_28
+  - first:
+      213: -7497091376206945756
+    second: Skull Boy_29
+  - first:
+      213: -916091522435940296
+    second: Skull Boy_30
+  - first:
+      213: -5008887004837078524
+    second: Skull Boy_31
+  - first:
+      213: -2546450236644726081
+    second: Skull Boy_32
+  - first:
+      213: -1486111609998715250
+    second: Skull Boy_33
+  - first:
+      213: -3443420270125031087
+    second: Skull Boy_34
+  - first:
+      213: 1151129069138677251
+    second: Skull Boy_35
+  - first:
+      213: -5742382823028273752
+    second: Skull Boy_36
+  - first:
+      213: -5944080115105661396
+    second: Skull Boy_37
+  - first:
+      213: 5800838988672060031
+    second: Skull Boy_38
+  - first:
+      213: -6873108958569993010
+    second: Skull Boy_39
+  - first:
+      213: -2602384046208701057
+    second: Skull Boy_40
+  - first:
+      213: 3385427449081666559
+    second: Skull Boy_41
+  - first:
+      213: -5094420596316413132
+    second: Skull Boy_42
+  - first:
+      213: -5967823842615867896
+    second: Skull Boy_43
+  - first:
+      213: -291878181439538185
+    second: Skull Boy_44
+  - first:
+      213: 4940376894296774036
+    second: Skull Boy_45
+  - first:
+      213: -7992929374173958161
+    second: Skull Boy_46
+  - first:
+      213: 2803357654113854810
+    second: Skull Boy_47
+  - first:
+      213: 4263674053411715798
+    second: Skull Boy_48
+  - first:
+      213: 7612063967389673048
+    second: Skull Boy_49
+  - first:
+      213: 1861161420216083915
+    second: Skull Boy_50
+  - first:
+      213: 1209735081223841127
+    second: Skull Boy_51
+  - first:
+      213: -2138740496515125908
+    second: Skull Boy_52
+  - first:
+      213: -6397357853135008186
+    second: Skull Boy_53
+  - first:
+      213: 2662849054403197382
+    second: Skull Boy_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skull Boy_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 78
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720ff709b6496d570800000000000000
+      internalID: 8491137337160364071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 78
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1928e265de452b40800000000000000
+      internalID: 5414820805377272094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 78
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4062281bb8871c7c0800000000000000
+      internalID: -4052825648282851836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 79
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b6b6e9ca82f0000800000000000000
+      internalID: 4266846507985676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 79
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca2edbcf41170340800000000000000
+      internalID: 4829848159798569674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_5
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 79
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2876ab742e739c0800000000000000
+      internalID: -3947437750669049153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 79
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632e22aa4b75d5790800000000000000
+      internalID: -7539773767688199626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_7
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 79
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bae736cebc8162d0800000000000000
+      internalID: -3287191502006523216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_8
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 79
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21696cfee856ce400800000000000000
+      internalID: 354770135237957138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_9
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 78
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6d5c8fe8a205240800000000000000
+      internalID: 4778365998187534026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_10
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 78
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6095dae79fbd080800000000000000
+      internalID: -9161454694485653783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_11
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 78
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055b28eda38e1bf90800000000000000
+      internalID: -6939510211262368432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_12
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 79
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04014552b173cd1a0800000000000000
+      internalID: -6783486348996898752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_13
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 79
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b5a925bda16c50800000000000000
+      internalID: 6656792717829714308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_14
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 79
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ebbf20faa706c0800000000000000
+      internalID: -4177182180793128498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_15
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 79
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd2a272e257b6a40800000000000000
+      internalID: 5362508622400728563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_16
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 79
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b129b20a6bf90450800000000000000
+      internalID: 6055647606707134902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_17
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928bd17bdc75cc1a0800000000000000
+      internalID: -6787953997302089687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_18
+      rect:
+        serializedVersion: 2
+        x: 4924
+        y: 106
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd9666dfad26f170800000000000000
+      internalID: 8211801203796254199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_19
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 79
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91eaac78f137fd090800000000000000
+      internalID: -8007555033182065127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_20
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 79
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385add091dcdd0d0800000000000000
+      internalID: -3396333036477196226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_21
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 79
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647bf38aecf51a2f0800000000000000
+      internalID: -963383504089925818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_22
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 78
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81635ba802a4ffc0800000000000000
+      internalID: -3461964055423262322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_23
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 79
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c6a51eae518ab90800000000000000
+      internalID: -7230505103196001167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_24
+      rect:
+        serializedVersion: 2
+        x: 6406
+        y: 79
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ec0c5134f452d80800000000000000
+      internalID: -8276121590677057989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_25
+      rect:
+        serializedVersion: 2
+        x: 6412
+        y: 103
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcdcaad466d7a010800000000000000
+      internalID: 1200163554371362013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_26
+      rect:
+        serializedVersion: 2
+        x: 6592
+        y: 79
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2c759a408e75b20800000000000000
+      internalID: 3123219973323342581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_27
+      rect:
+        serializedVersion: 2
+        x: 6775
+        y: 98
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e60fd243b7998f80800000000000000
+      internalID: -8103779258299644190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_28
+      rect:
+        serializedVersion: 2
+        x: 6975
+        y: 99
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b539e9228c55cf0800000000000000
+      internalID: -264084952116405375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_29
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 79
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4226a885d1bf4f790800000000000000
+      internalID: -7497091376206945756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_30
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 79
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830857f2d936943f0800000000000000
+      internalID: -916091522435940296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 78
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a9d9caecbdc7ab0800000000000000
+      internalID: -5008887004837078524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_32
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 78
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae49e500139acd0800000000000000
+      internalID: -2546450236644726081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_33
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 79
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86517d4d55406be0800000000000000
+      internalID: -1486111609998715250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_34
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 79
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15161d222838630d0800000000000000
+      internalID: -3443420270125031087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_35
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 78
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e03a81ac1a9ff00800000000000000
+      internalID: 1151129069138677251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_36
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 79
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad48153f35fe40b0800000000000000
+      internalID: -5742382823028273752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_37
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 79
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ef9aed0a2628da0800000000000000
+      internalID: -5944080115105661396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_38
+      rect:
+        serializedVersion: 2
+        x: 5655
+        y: 79
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac8077358b08050800000000000000
+      internalID: 5800838988672060031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_39
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 78
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc61e541dfcd90a0800000000000000
+      internalID: -6873108958569993010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_40
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 79
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d269c7f7972ebd0800000000000000
+      internalID: -2602384046208701057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_41
+      rect:
+        serializedVersion: 2
+        x: 6944
+        y: 88
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb9e5304547bfe20800000000000000
+      internalID: 3385427449081666559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_42
+      rect:
+        serializedVersion: 2
+        x: 6961
+        y: 79
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4336024857bfc49b0800000000000000
+      internalID: -5094420596316413132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_43
+      rect:
+        serializedVersion: 2
+        x: 7123
+        y: 77
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80646c285d70e2da0800000000000000
+      internalID: -5967823842615867896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_44
+      rect:
+        serializedVersion: 2
+        x: 7152
+        y: 79
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbfb95275a03fbf0800000000000000
+      internalID: -291878181439538185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_45
+      rect:
+        serializedVersion: 2
+        x: 7307
+        y: 75
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955b113c9ebf8440800000000000000
+      internalID: 4940376894296774036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_46
+      rect:
+        serializedVersion: 2
+        x: 7341
+        y: 79
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef63912519631190800000000000000
+      internalID: -7992929374173958161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_47
+      rect:
+        serializedVersion: 2
+        x: 7532
+        y: 79
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5524dffee687e620800000000000000
+      internalID: 2803357654113854810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_48
+      rect:
+        serializedVersion: 2
+        x: 7723
+        y: 79
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dab7af26fc9b2b30800000000000000
+      internalID: 4263674053411715798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_49
+      rect:
+        serializedVersion: 2
+        x: 7916
+        y: 79
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856efcf09db73a960800000000000000
+      internalID: 7612063967389673048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_50
+      rect:
+        serializedVersion: 2
+        x: 8107
+        y: 79
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc524a9637c24d910800000000000000
+      internalID: 1861161420216083915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_51
+      rect:
+        serializedVersion: 2
+        x: 8298
+        y: 79
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765ecac95a7d9c010800000000000000
+      internalID: 1209735081223841127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_52
+      rect:
+        serializedVersion: 2
+        x: 8492
+        y: 79
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d297699daa152e0800000000000000
+      internalID: -2138740496515125908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_53
+      rect:
+        serializedVersion: 2
+        x: 8684
+        y: 79
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e05de5de40837a0800000000000000
+      internalID: -6397357853135008186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull Boy_54
+      rect:
+        serializedVersion: 2
+        x: 5122
+        y: 79
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9ff2a4b1754f420800000000000000
+      internalID: 2662849054403197382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skull Boy_0: 8491137337160364071
+      Skull Boy_1: 5414820805377272094
+      Skull Boy_10: -9161454694485653783
+      Skull Boy_11: -6939510211262368432
+      Skull Boy_12: -6783486348996898752
+      Skull Boy_13: 6656792717829714308
+      Skull Boy_14: -4177182180793128498
+      Skull Boy_15: 5362508622400728563
+      Skull Boy_16: 6055647606707134902
+      Skull Boy_17: -6787953997302089687
+      Skull Boy_18: 8211801203796254199
+      Skull Boy_19: -8007555033182065127
+      Skull Boy_2: -4052825648282851836
+      Skull Boy_20: -3396333036477196226
+      Skull Boy_21: -963383504089925818
+      Skull Boy_22: -3461964055423262322
+      Skull Boy_23: -7230505103196001167
+      Skull Boy_24: -8276121590677057989
+      Skull Boy_25: 1200163554371362013
+      Skull Boy_26: 3123219973323342581
+      Skull Boy_27: -8103779258299644190
+      Skull Boy_28: -264084952116405375
+      Skull Boy_29: -7497091376206945756
+      Skull Boy_3: 4266846507985676
+      Skull Boy_30: -916091522435940296
+      Skull Boy_31: -5008887004837078524
+      Skull Boy_32: -2546450236644726081
+      Skull Boy_33: -1486111609998715250
+      Skull Boy_34: -3443420270125031087
+      Skull Boy_35: 1151129069138677251
+      Skull Boy_36: -5742382823028273752
+      Skull Boy_37: -5944080115105661396
+      Skull Boy_38: 5800838988672060031
+      Skull Boy_39: -6873108958569993010
+      Skull Boy_4: 4829848159798569674
+      Skull Boy_40: -2602384046208701057
+      Skull Boy_41: 3385427449081666559
+      Skull Boy_42: -5094420596316413132
+      Skull Boy_43: -5967823842615867896
+      Skull Boy_44: -291878181439538185
+      Skull Boy_45: 4940376894296774036
+      Skull Boy_46: -7992929374173958161
+      Skull Boy_47: 2803357654113854810
+      Skull Boy_48: 4263674053411715798
+      Skull Boy_49: 7612063967389673048
+      Skull Boy_5: -3947437750669049153
+      Skull Boy_50: 1861161420216083915
+      Skull Boy_51: 1209735081223841127
+      Skull Boy_52: -2138740496515125908
+      Skull Boy_53: -6397357853135008186
+      Skull Boy_54: 2662849054403197382
+      Skull Boy_6: -7539773767688199626
+      Skull Boy_7: -3287191502006523216
+      Skull Boy_8: 354770135237957138
+      Skull Boy_9: 4778365998187534026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -20,6 +20,7 @@ public class PlayerController : MonoBehaviour
     private bool isAttacking = false;
     private bool isDead = false;
     private bool facingRight = true;
+    private bool isHit = false;
 
     private Vector2 movement;
 
@@ -57,7 +58,11 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        if (isDead) return;
+        if (Keyboard.current != null && Keyboard.current.hKey.wasPressedThisFrame)
+        {
+            TakeHit(20, Vector2.left);
+        }
+        if (isDead || isHit) return;
 
         HandleMovement();
         HandleAttack();
@@ -84,6 +89,11 @@ public class PlayerController : MonoBehaviour
             isAttacking = true;
             animator.SetTrigger("Attack");
         }
+    }
+
+    public void OnHitEnd()
+    {
+        isHit = false;
     }
 
     public void OnAttackEnd()
@@ -118,15 +128,18 @@ public class PlayerController : MonoBehaviour
         if (isDead) return;
 
         currentHealth -= damage;
-        animator.SetTrigger("Hit");
-
-        rb.AddForce(knockbackDir.normalized * 5f, ForceMode2D.Impulse);
-
+        
         if (currentHealth <= 0)
         {
             currentHealth = 0;
             Die();
+            return;
         }
+        
+        animator.SetTrigger("Hit");
+        isHit = true;
+        rb.AddForce(knockbackDir.normalized * 5f, ForceMode2D.Impulse);
+        
     }
 
     void Die()
